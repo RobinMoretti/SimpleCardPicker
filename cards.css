@@ -1,0 +1,86 @@
+
+#cards-container{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.card{  
+    height: 300px; width: 180px;
+    perspective: 1000px;
+    margin: 20px;
+    transform: scale(0.9);
+    transition: transform 0.2s;
+}
+
+.card:hover{  
+    transform: scale(1);
+}
+
+.card .front, .card .back{
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card .title{    
+    font-family: 'Fredoka One', cursive;
+    font-size: large;
+}
+
+.card .category{    
+    font-family: 'Sono', sans-serif;
+    font-size: small;
+}
+
+.inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+.card .inner{
+    transform: rotateY(180deg);
+}
+.card .inner,.card .front{
+    pointer-events: none;
+}
+.card:hover{
+    cursor: pointer;
+}
+
+.card.active .inner{
+    transform: rotateY(0);
+}
+  
+.front, .back {
+    -webkit-box-shadow: 5px 5px 15px -2px rgba(0,0,0,0.33); 
+    box-shadow: 5px 5px 15px -2px rgba(0,0,0,0.33);
+    
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+}
+  
+.front {
+    background-color: #7c3f58;
+    color: #fff6d3;
+    border: 5px solid #f9a875;
+}
+  
+.back {
+    background-color: #7c3f58;
+    color: white;
+    transform: rotateY(180deg);
+    border: 5px solid #f9a875;
+} 

@@ -1,0 +1,657 @@
+[
+  {
+    "Name": "10 Choses à savoir sur…",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Annonce",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Astrologie",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Avis de décés",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "BD",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Chronique",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Cinéma",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Critique",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Culture",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Dissensus",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Décryptage",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Enquête",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Food",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "France",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Grands format",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Idées",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Image",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Interview",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Jeux",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Le courrier des lecteurs",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Livre",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Loisir",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "L’info du jour",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Ma ville",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Monde",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Mot croisés",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Musique",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Métropole",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Météo",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Politique",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Pubs",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "quiz",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Radar",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Reportage",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Société",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Sport",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Sudoku",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Tendances",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "TV",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Éditorial",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Évènement",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "Fait divers",
+    "Tags": "Rubrique",
+    "quantity": 1
+  },
+  {
+    "Name": "10 Bonnes raison de …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "après les motions, … ?",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Canard boiteux",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Dans les coullisses…",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Dans l’espoir d’un …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Des …, à quel prix ?",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Full metal …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Ici un … sera toujours un …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Il sauve des … abandonné dans …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Inflation : …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "La délivrance et la polémique",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "La vie des … est moins … que vous ne croyais",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Le jeu de …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Le mal de …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Le Ras-le-bol des …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "L’emprise du …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Top dépard des …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Trans-…",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "Victoire majeur pour …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… (n’) en font (pas) assez",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… attendu dans le centre ville",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… cyber …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… dating: des centaines de …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… en exile",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… en marge",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… met le feu a ...",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… ne connai pas la crise",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… n’ a jamais ‘etait aussi puissant",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… raconte son combat",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… rêve de l’après …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… sur le pied de guerre …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… surtaxé ?",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "…, est-ce encore bien utile ?",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "…, le retour de tous les dangers",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "…, le soulagement",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "…, pas content",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "…, une certaine idée du …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "… sous l’oeil de …",
+    "Tags": "À placer dans le titre",
+    "quantity": 1
+  },
+  {
+    "Name": "+1 carte",
+    "Tags": "Carte chances",
+    "quantity": 8
+  },
+  {
+    "Name": "Fait repiocher quelqu’un",
+    "Tags": "Carte chances",
+    "quantity": 5
+  },
+  {
+    "Name": "Re pioche !",
+    "Tags": "Carte chances",
+    "quantity": 5
+  },
+  {
+    "Name": "Re pioche toutes tes cartes !",
+    "Tags": "Carte chances",
+    "quantity": 2
+  },
+  {
+    "Name": "Échange non consenti",
+    "Tags": "Carte chances",
+    "quantity": 5
+  },
+  {
+    "Name": "Échange à l’aveugle",
+    "Tags": "Carte chances",
+    "quantity": 5
+  },
+  {
+    "Name": "Écri un carte d’une catégorie et donne là à quelqu’un",
+    "Tags": "Carte chances",
+    "quantity": 5
+  },
+  {
+    "Name": "Animaux",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Anxi’et’e",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Artisanat",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Banque",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Bruxelle",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Capitalismne",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Climat",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Comunisme",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Coût",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Drogue",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Dynastie",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Espionnage",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Europe",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Extrême",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Finance",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "For^et",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Guerre",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Haine",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Humanit’e",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Immobilier",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Inflation",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Justice",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Libéralisme",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Mafia",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Melonie",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Mensonge",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Meutre",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Mort",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Musique",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Plaintes",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Politque",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Prostitution",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Racisme",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Radicaux",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Royal",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Russie",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Sexe",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Th’erapie",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Trahison",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Union",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Vie sauvage",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Écologie",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "Couleur",
+    "Tags": "Thème ou notion",
+    "quantity": ""
+  },
+  {
+    "Name": "",
+    "Tags": "",
+    "quantity": ""
+  }
+]
