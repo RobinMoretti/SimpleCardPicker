@@ -40,6 +40,20 @@ h2{
     margin-top: 5px;
 }
 
+h2 span{
+    animation: 2s wavy linear infinite;
+    position: inherit;
+    display: inline-block;
+    animation-delay: 0.2s;
+}
+
+@keyframes wavy {
+    0% { transform: translate(0px, 0px) }
+    25% { transform: translate(0px, -7px) }
+    75% { transform: translate(0px, 7px) }
+    100%   { transform: translate(0px, 0px) }
+}
+
 footer{
     padding: 20px;
     text-align: right;
